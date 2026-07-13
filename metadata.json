@@ -1,0 +1,6 @@
+{
+  "name": "Leading Across Borders",
+  "description": "An AI-powered Socratic leadership training and reflection applet designed for international business students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
